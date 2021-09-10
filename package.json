@@ -1,12 +1,12 @@
 {
   "name": "@graphprotocol/graph-ts",
   "description": "TypeScript/AssemblyScript library for writing subgraph mappings for The Graph",
-  "version": "0.22.0-alpha.3",
+  "version": "0.22.0-rc1",
   "module": "index.ts",
   "types": "index.ts",
   "main": "index.ts",
   "dependencies": {
-    "assemblyscript": "0.19.10"
+    "assemblyscript": "0.19.12"
   },
   "devDependencies": {
     "glob": "^7.1.2"
